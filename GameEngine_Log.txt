@@ -1,4 +1,4 @@
-[20/04/2021|04:46:22] DGLEngine Version 104.0 RC2. Modified by Woolf Special for AtomFishing Started...
+[20/04/2021|05:09:28] DGLEngine Version 104.0 RC2. Modified by Woolf Special for AtomFishing Started...
 Build: v104.1 RC102,23.04.2009
 System set
 Mask set
@@ -362,19 +362,19 @@ Texture "D:\FFGame\Data\Textures\Logo1.tga" loaded successfully.
 Texture "D:\FFGame\Data\Textures\LogoBack.jpg" loaded successfully.
 Texture "D:\FFGame\Data\Textures\Servers\1.jpg" loaded successfully.
 Texture "D:\FFGame\Data\Textures\Servers\2.jpg" loaded successfully.
-1430 Textures has been freed.
-7 Fonts has been freed.
-Avarage FPS:39
-[04:46:41] Engine Closed.
 Texture "D:\FFGame\Data\Textures\Fish\112.tga" loaded successfully.
 Texture "D:\FFGame\Data\Textures\Fish\28.tga" loaded successfully.
 Texture "D:\FFGame\Data\Textures\Fish\47.tga" loaded successfully.
-Texture "D:\FFGame\Data\Textures\Weapons\5012.tga" loaded successfully.
-Texture "D:\FFGame\Data\Textures\Weapons\3024.tga" loaded successfully.
-Texture "D:\FFGame\Data\Textures\Weapons\eho2.tga" loaded successfully.
 Texture "D:\FFGame\Data\Textures\Weapons\2035.tga" loaded successfully.
+Texture "D:\FFGame\Data\Textures\Weapons\eho2.tga" loaded successfully.
+Texture "D:\FFGame\Data\Textures\Weapons\3024.tga" loaded successfully.
+Texture "D:\FFGame\Data\Textures\Weapons\5012.tga" loaded successfully.
 Texture "D:\FFGame\Data\Textures\Weapons\13001.tga" loaded successfully.
 Texture "D:\FFGame\Data\Textures\Weapons\9006.tga" loaded successfully.
+Texture "D:\FFGame\Data\Textures\Weapons\40003.tga" loaded successfully.
+Texture "D:\FFGame\Data\Textures\Weapons\40001.tga" loaded successfully.
+Texture "D:\FFGame\Data\Textures\Weapons\52391.tga" loaded successfully.
+Texture "D:\FFGame\Data\Textures\Weapons\40005.tga" loaded successfully.
 Texture "D:\FFGame\Data\Textures\Weapons\13007.tga" loaded successfully.
 Texture "D:\FFGame\Data\Textures\Weapons\skaf7.tga" loaded successfully.
 Texture "D:\FFGame\Data\Textures\Weapons\8002.tga" loaded successfully.
@@ -1062,11 +1062,3 @@ Texture "D:\FFGame\Data\Textures\Artels\NoImage.tga" loaded successfully.
 Texture "D:\FFGame\Data\Textures\Artels\NoImage.tga" loaded successfully.
 Texture "D:\FFGame\Data\Textures\Artels\NoImage.tga" loaded successfully.
 Texture "D:\FFGame\Data\Textures\Artels\NoImage.tga" loaded successfully.
-Texture "D:\FFGame\Data\Textures\Weapons\40005.tga" loaded successfully.
-Texture "D:\FFGame\Data\Textures\Weapons\52391.tga" loaded successfully.
-Texture "D:\FFGame\Data\Textures\Weapons\40001.tga" loaded successfully.
-Texture "D:\FFGame\Data\Textures\Weapons\40003.tga" loaded successfully.
-1212 Textures has been freed.
-7 Fonts has been freed.
-Avarage FPS:38
-[05:00:18] Engine Closed.
