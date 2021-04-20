@@ -1062,3 +1062,5 @@ Texture "D:\FFGame\Data\Textures\Artels\NoImage.tga" loaded successfully.
 Texture "D:\FFGame\Data\Textures\Artels\NoImage.tga" loaded successfully.
 Texture "D:\FFGame\Data\Textures\Artels\NoImage.tga" loaded successfully.
 Texture "D:\FFGame\Data\Textures\Artels\NoImage.tga" loaded successfully.
+Texture "D:\FFGame\Data\Textures\Fish\66.tga" loaded successfully.
+Texture "D:\FFGame\Data\Textures\Weapons\40006.tga" loaded successfully.
