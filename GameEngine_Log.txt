@@ -1711,3 +1711,28 @@ Texture "D:\FFGame\Data\Textures\Artels\NoImage.tga" loaded successfully.
 Texture "D:\FFGame\Data\Textures\Artels\NoImage.tga" loaded successfully.
 Texture "D:\FFGame\Data\Textures\Artels\NoImage.tga" loaded successfully.
 Texture "D:\FFGame\Data\Textures\Artels\NoImage.tga" loaded successfully.
+Texture "D:\FFGame\Data\Textures\quest\23_1.jpg" loaded successfully.
+Texture "D:\FFGame\Data\Textures\quest\23_1.jpg" loaded successfully.
+Texture "D:\FFGame\Data\Textures\Weapons\Spin1.tga" loaded successfully.
+Texture "D:\FFGame\Data\Textures\Weapons\1030.tga" loaded successfully.
+Texture "D:\FFGame\Data\Textures\Weapons\2034.tga" loaded successfully.
+Texture "D:\FFGame\Data\Textures\Weapons\2037.tga" loaded successfully.
+Texture "D:\FFGame\Data\Textures\Weapons\2057.tga" loaded successfully.
+Texture "D:\FFGame\Data\Textures\Weapons\3049.tga" loaded successfully.
+Texture "D:\FFGame\Data\Textures\Weapons\hook1.tga" loaded successfully.
+Texture "D:\FFGame\Data\Textures\Weapons\fider1.tga" loaded successfully.
+Texture "D:\FFGame\Data\Textures\Weapons\7009.tga" loaded successfully.
+Texture "D:\FFGame\Data\Textures\Weapons\8000.tga" loaded successfully.
+Texture "D:\FFGame\Data\Textures\Weapons\skaf1.tga" loaded successfully.
+Texture "D:\FFGame\Data\Textures\Weapons\42001.tga" loaded successfully.
+Texture "D:\FFGame\Data\Textures\Weapons\3025.tga" loaded successfully.
+Texture "D:\FFGame\Data\Textures\Weapons\3048.tga" loaded successfully.
+Texture "D:\FFGame\Data\Textures\Weapons\3047.tga" loaded successfully.
+Texture "D:\FFGame\Data\Textures\Weapons\3046.tga" loaded successfully.
+Texture "D:\FFGame\Data\Textures\Weapons\3027.tga" loaded successfully.
+Texture "D:\FFGame\Data\Textures\Weapons\3025.tga" loaded successfully.
+Texture "D:\FFGame\Data\Textures\Weapons\13002.tga" loaded successfully.
+1881 Textures has been freed.
+7 Fonts has been freed.
+Avarage FPS:39
+[06:16:24] Engine Closed.
