@@ -1287,3 +1287,4 @@ Texture "D:\FFGame\Data\Textures\Weapons\skaf3.tga" loaded successfully.
 Texture "D:\FFGame\Data\Textures\Weapons\skaf6.tga" loaded successfully.
 Texture "D:\FFGame\Data\Textures\Weapons\skaf.tga" loaded successfully.
 Texture "D:\FFGame\Data\Textures\Weapons\skaf10.tga" loaded successfully.
+Texture "D:\FFGame\Data\Textures\Fish\28.tga" loaded successfully.
