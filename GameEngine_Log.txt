@@ -1092,3 +1092,4 @@ Texture "D:\FFGame\Data\Textures\Weapons\1029.tga" loaded successfully.
 Texture "D:\FFGame\Data\Textures\Patents\3.tga" loaded successfully.
 Texture "D:\FFGame\Data\Textures\Fish\37.tga" loaded successfully.
 Texture "D:\FFGame\Data\Textures\Weapons\40008.tga" loaded successfully.
+Texture "D:\FFGame\Data\Textures\Fish\85.tga" loaded successfully.
