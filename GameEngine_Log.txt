@@ -1062,3 +1062,11 @@ Texture "D:\FFGame\Data\Textures\Artels\NoImage.tga" loaded successfully.
 Texture "D:\FFGame\Data\Textures\Artels\NoImage.tga" loaded successfully.
 Texture "D:\FFGame\Data\Textures\Artels\NoImage.tga" loaded successfully.
 Texture "D:\FFGame\Data\Textures\Artels\NoImage.tga" loaded successfully.
+Texture "D:\FFGame\Data\Textures\Weapons\40005.tga" loaded successfully.
+Texture "D:\FFGame\Data\Textures\Weapons\52391.tga" loaded successfully.
+Texture "D:\FFGame\Data\Textures\Weapons\40001.tga" loaded successfully.
+Texture "D:\FFGame\Data\Textures\Weapons\40003.tga" loaded successfully.
+1212 Textures has been freed.
+7 Fonts has been freed.
+Avarage FPS:38
+[05:00:18] Engine Closed.
