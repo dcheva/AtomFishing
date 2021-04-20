@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<skin>
+	<image name="background" path="resource/Background.png" />
+	<image name="content" path="resource/Content.png" />
+	<image name="close_hover" path="resource/CloseHover.png" />
+	<image name="close_normal" path="resource/CloseNormal.png" />
+	<image name="minimize_hover" path="resource/MinimizeHover.png" />
+	<image name="minimize_normal" path="resource/MinimizeNormal.png" />
+	<image name="play_hover" path="resource/PlayHover.png" />
+	<image name="play_normal" path="resource/PlayNormal.png" />
+	<image name="progress" path="resource/Progress.png" />
+	<image name="progress_back" path="resource/ProgressBack.png" />
+	<color name="link" value="#9ACD32" />
+	<color name="active_link" value="#FF0000" />
+	<color name="content_browser" value="#1B1B1B" />
+	<color name="status" value="#E0E0D0" />
+	<color name="addstatus" value="#808080" />	
+	<position name="content" x="9" y="197" width="779" height="335" />
+</skin>

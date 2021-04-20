@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+	<param name="server_ip" value="update.atomfish.ru"/>
+	<param name="tracker_port" value="10002"/>
+	<param name="torrent_port" value="10003"/>
+	<param name="seeder_port" value="6969"/>
+	<param name="download_location" value="."/>
+	<param name="registration_link" value="http://forum.atomfish.ru/register.php"/>
+	<param name="site_link" value="http://atomfish.ru"/>
+	<param name="content_link" value="http://atomfish.ru/splash?tmpl=splash"/>
+	<launch_action name="play" path="FFG.exe" args=""/>
+</configuration>

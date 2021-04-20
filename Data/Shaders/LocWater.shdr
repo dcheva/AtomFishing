@@ -1,0 +1,44 @@
+[Vertex_Shader]
+
+varying vec2 texcrd0;
+varying vec2 texcrd1;
+
+void main(void)
+{
+  
+  gl_Position=gl_ModelViewProjectionMatrix*gl_Vertex;
+  gl_TexCoord[0] = gl_MultiTexCoord0;          
+  gl_TexCoord[1] = gl_MultiTexCoord1;         
+  texcrd0 = gl_MultiTexCoord0.xy;
+  texcrd1 = gl_MultiTexCoord1.xy;
+}
+
+[Pixel_Shader]
+
+uniform float phase;
+uniform sampler2D tex0;
+uniform sampler2D tex1;
+
+varying vec2 texcrd0;
+varying vec2 texcrd1;
+
+const float kf=0.002f;
+
+void main(void)
+{    
+  
+  vec4 col=texture2D (tex1, texcrd0);
+  float skf=kf*texcrd0.y*col.r;
+  float fkf=1.0f+col.g*2.0f;
+  
+  if (texcrd0.y>0.98f) {
+   skf=0.0f;
+  }
+  
+ vec2 tempcrd;
+ tempcrd.y=texcrd0.y+sin(cos(phase*4.0f+texcrd0.y*60.0f)*4.0f*fkf)*skf/2.0f;
+ tempcrd.x=texcrd0.x+cos(sin(phase*2.0f+texcrd0.x*60.0f)*2.0f)*skf;
+
+ gl_FragColor=texture2D (tex0, tempcrd);
+ 
+}
